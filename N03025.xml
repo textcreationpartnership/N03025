@@ -118,8 +118,8 @@
    <text xml:lang="eng">
       <body>
          <div type="declaration">
-            <pb facs="tcp:0F5A34AA2600A340:003639_0000_0F59F70C981E4D18"/>
-            <pb facs="tcp:0F5A34AA2600A340:003639_0001_0F59F70D59F29018"/>
+            <pb facs="unknown:003639_0000_0F59F70C981E4D18"/>
+            <pb facs="unknown:003639_0001_0F59F70D59F29018"/>
             <head>The Declaration, Dying Warning and Advice of
 Rebekah Chamblit</head>
             <head type="sub">A Young Woman Aged near Twenty-seven Years, Executed <gap reason="illegible" resp="#TECH" extent="1 span">
